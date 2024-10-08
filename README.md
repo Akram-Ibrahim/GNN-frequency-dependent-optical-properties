@@ -36,8 +36,11 @@ Modify the input parameters/hyperparameters directly in the code as needed, and 
 The script automatically evaluates the model using a test set, plotting both training and validation losses over epochs. It also calculates custom metrics for component-wise errors across the predicted spectra and target norms.
 
 
+## General Layout
+<img src="https://github.com/user-attachments/assets/9807bda2-eab4-4d77-a2f7-22a00da6b05d" width="50%" height="50%">
 
-![image](https://github.com/user-attachments/assets/9807bda2-eab4-4d77-a2f7-22a00da6b05d)
+## GNN Predictions
+**Predictions of the imaginary part of the dielectric function and the absorption coefficient at meta-GGA MBJ functional accuracy.**
+<img src="https://github.com/user-attachments/assets/be647881-7478-48a3-804e-84b201523e8c" width="50%" height="50%">
 
-![image](https://github.com/user-attachments/assets/be647881-7478-48a3-804e-84b201523e8c)
 
