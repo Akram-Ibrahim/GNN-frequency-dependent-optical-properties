@@ -29,7 +29,7 @@ Ensure you have the following dependencies installed:
 Modify the input parameters/hyperparameters directly in the code as needed, and execute it to start training:
 - `loss_weights`: Adjust in case of normalized spectrum learning.
 - `embedding_dimensions` for atom, bond, and state features.
-- `GNN layer sizes`, `Dropout rates`, `Learning rate`, and `Decay factor`, etc.
+- `GNN layer sizes`, `Dropout rates`, and `Learning rate`, etc.
 
 
 ### Model Evaluation
