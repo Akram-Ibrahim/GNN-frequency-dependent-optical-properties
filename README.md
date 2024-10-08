@@ -37,10 +37,16 @@ The script automatically evaluates the model using a test set, plotting both tra
 
 
 ## General Layout
-<img src="https://github.com/user-attachments/assets/9807bda2-eab4-4d77-a2f7-22a00da6b05d" width="50%" height="50%">
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9807bda2-eab4-4d77-a2f7-22a00da6b05d" width="70%">
+</p>
 
 ## GNN Predictions
-**Predictions of the imaginary part of the dielectric function and the absorption coefficient at meta-GGA MBJ functional accuracy.**
-<img src="https://github.com/user-attachments/assets/be647881-7478-48a3-804e-84b201523e8c" width="50%" height="50%">
+**Predictions for the imaginary part of the dielectric function and the absorption coefficient at meta-GGA MBJ functional accuracy.**
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/be647881-7478-48a3-804e-84b201523e8c" width="45%" height="45%">
+  <img src="https://github.com/user-attachments/assets/51711136-1d67-4d8a-ba23-4368153d14b2" width="45%" height="45%">
+</p>
+
 
 
