@@ -26,16 +26,12 @@ Ensure you have the following dependencies installed:
 - Seaborn, Matplotlib (for plotting)
 
 ### Model Training
-Adjust the input parameters in the script and execute it to start training.
+Modify the input parameters/hyperparameters directly in the code as needed, and execute it to start training:
+- `loss_weights`: Adjust in case of normalized spectrum learning.
+- `embedding_dimensions` for atom, bond, and state features.
+- `GNN layer sizes`, `Dropout rates`, `Learning rate`, and `Decay factor`, etc.
+
 
 ### Model Evaluation
 The script automatically evaluates the model using a test set, plotting both training and validation losses over epochs. It also calculates custom metrics for component-wise errors across the predicted spectra and target norms.
-
-## Customizations
-
-### Key Hyperparameters
-Modify the following hyperparameters directly in the code as needed:
-- `loss_weights`: Adjust in case of normalized spectrum learning.
-- `embedding_dimensions` for atom, bond, and state features.
-- `GNN layer sizes`, `Dropout rates`, `Learning rate`, and `Decay factor`.
 
